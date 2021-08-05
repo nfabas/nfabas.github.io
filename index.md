@@ -1,11 +1,19 @@
 # Nicolas Fabas
 
+
 ## Areas of expertise
 
-Data Engineering, Data Versioning, Data Publishing, Software Engineering, DevOps,
-Linux, Python, Bash, Git, GitLab, Docker, Kubernetes, CKAN, Flask, Numpy, Pandas,
-Scikit-Learn, TensorFlow, Keras, Java, Scala, Apache Spark, PostgreSQL, Elasticsearch,
-Data Analytics, Machine Learning
+- ccc
+  - Linux, Bash, PostgreSQL, Elasticsearch, Flask
+- Software Development
+  -   Python, Java, Scala
+- Data Engineering and DevOps
+  - Git, GitLab, Docker, Kubernetes, Data Versioning, Data Publishing, Apache Spark
+- Data Science & AI
+  - Numpy, Pandas, Scikit-Learn, TensorFlow, Keras
+
+
+## Work experience
 
 ```json
 {
