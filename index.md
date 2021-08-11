@@ -3,20 +3,20 @@
 
 ## Areas of expertise
 
-- ccc
-  - Linux, Bash, PostgreSQL, Elasticsearch, Flask
+- Infrastructure
+  - Linux, Bash
+- Databases
+  - PostgreSQL, Elasticsearch
 - Software Development
-  -   Python, Java, Scala
+  - Python, Java, Scala
 - Data Engineering and DevOps
   - Git, GitLab, Docker, Kubernetes, Data Versioning, Data Publishing, Apache Spark
 - Data Science & AI
   - Numpy, Pandas, Scikit-Learn, TensorFlow, Keras
+- Webservices
+  - CKAN, Flask, Nginx
 
 
 ## Work experience
 
-```json
-{
-  "foo": 14254364644555555555
-}
-```
+
