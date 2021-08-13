@@ -3,11 +3,7 @@
 
 ## Areas of expertise
 
-- Infrastructure
-- Software Development
-- Databases
-- Data Engineering
-- DevOps
+`Infrastructure`, `Software Development`, `Databases`, `Data Engineering`, `DevOps`
 - Data Science
 - Machine Learning
 - Web Services
