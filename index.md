@@ -11,4 +11,5 @@
 
 ## Work experience
 
+- **Data Engineer** *2017 - Present*
 
