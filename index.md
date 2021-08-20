@@ -1,6 +1,6 @@
 # Areas of expertise
 
-`System Administration` `Software Development` `Databases` `Data Engineering` `DevOps` `Data Science` `Machine Learning` `Web Services` `Data Versioning` `Open Data`
+System Administration, Software Development, Databases, Data Engineering, DevOps, Data Science, Machine Learning, Web Services, Data Versioning, Open Data
 
 # Technologies
 
