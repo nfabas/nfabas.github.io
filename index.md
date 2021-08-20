@@ -4,7 +4,7 @@
 
 # Technologies
 
-`Linux` `Bash` `PostgreSQL` <a href="https://pandas.pydata.org/"><img alt="elasticsearch" src="https://img.shields.io/badge/?logo=elasticsearch"/></a> `Python` `Java` `Scala` `GitLab` `Docker` `Kubernetes` `Apache Spark` `Numpy` <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&color=inactive&logoColor=white&style=for-the-badge"/></a> `Scikit-Learn` `TensorFlow` `Keras` `CKAN` `Flask` `Nginx`
+`Linux` `Bash` `PostgreSQL` <a href="https://pandas.pydata.org/"><img alt="elasticsearch" src="https://img.shields.io/badge/?style=flat-square&logo=elasticsearch"/></a> `Python` `Java` `Scala` `GitLab` `Docker` `Kubernetes` `Apache Spark` `Numpy` <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&color=inactive&logoColor=white&style=for-the-badge"/></a> `Scikit-Learn` `TensorFlow` `Keras` `CKAN` `Flask` `Nginx`
 
 # Work experience
 
