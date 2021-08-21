@@ -1,8 +1,6 @@
-# Resume
-
 <a href="mailto:nicolas.fabas@protonmail.com"><img height="30" alt="protonmail" src="https://img.shields.io/badge/-EMail-000?logo=protonmail&style=flat-square&logoColor=black&color=white" /> <a href="https://www.linkedin.com/in/nicolas-fabas-93872663/"> <img height="30" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&style=flat-square&logoColor=black&color=white" /> <a href="https://www.xing.com/profile/Nicolas_Fabas/cv"> <img height="30" alt="xing" src="https://img.shields.io/badge/-Xing-000?logo=xing&style=flat-square&logoColor=black&color=white" />
-  
- 
+
+# Resume
 
 ## Areas of expertise
 
